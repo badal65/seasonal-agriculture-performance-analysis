@@ -1,0 +1,29 @@
+{
+  "rows": 120,
+  "columns": 28,
+  "duplicate_farm_ids": 0,
+  "negative_profit_rows": 26,
+  "negative_profit_pct": 21.67,
+  "seasons": [
+    "Kharif",
+    "Rabi",
+    "Zaid"
+  ],
+  "crops": [
+    "Chilli",
+    "Cotton",
+    "Groundnut",
+    "Maize",
+    "Pulses",
+    "Rice",
+    "Sugarcane",
+    "Wheat"
+  ],
+  "irrigation_methods": [
+    "Drip",
+    "Flood",
+    "Rainfed",
+    "Sprinkler"
+  ],
+  "charts": "generated"
+}

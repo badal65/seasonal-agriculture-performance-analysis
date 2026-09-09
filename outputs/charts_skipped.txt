@@ -1,0 +1,1 @@
+Install matplotlib and seaborn to generate chart images. Core tables were generated successfully.

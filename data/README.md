@@ -1,0 +1,1 @@
+Place the supplied 4,000-row CSV here as `seasonal_agriculture_performance_dataset.csv`. The sample folder is only for smoke testing.
